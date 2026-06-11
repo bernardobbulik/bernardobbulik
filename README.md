@@ -66,22 +66,11 @@ My long-term goal is to become a Tech Lead at a global technology company, combi
 
 </div>
 
-## Education
-
-🎓 Computer Science Student
-
-🏫 Former student at Colégio Tiradentes da Brigada Militar
-
-🏛️ Scholarship Student at Universidade de Passo Fundo (UPF)
-
----
-
-
 ## Most Used Languages
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardobbbulik&layout=compact&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardobbulik&layout=compact&theme=transparent"/>
 
 </div>
 
