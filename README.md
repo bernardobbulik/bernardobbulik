@@ -19,23 +19,6 @@ Currently, I am pursuing a degree in Computer Science while continuously improvi
 
 My long-term goal is to become a Tech Lead at a global technology company, combining technical excellence, leadership, and product vision to build impactful software used worldwide.
 
----
-
-## Current Focus
-
-* Backend Development
-* Software Architecture
-* Software Engineering
-* Object-Oriented Programming
-* Domain-Driven Design (DDD)
-* SaaS Product Development
-* Enterprise Systems
-* Artificial Intelligence Engineering
-* Machine Learning
-* Scalable Web Applications
-
----
-
 ## Tools & Technologies
 
 <div align="left">
@@ -84,7 +67,7 @@ My long-term goal is to become a Tech Lead at a global technology company, combi
 <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="bernardobuliK@gmail.com" target="_blank">
+<a href="mailto:bernardobulik@gmail.com" target="_blank">
 <img loading="lazy" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
