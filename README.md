@@ -6,16 +6,11 @@ Software Engineer | Backend Developer | AI Enthusiast
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bernardobulik&show_icons=true&theme=transparent" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bernardobbulik&show_icons=true&theme=transparent" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bernardobulik&theme=transparent" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bernardobbulik&theme=transparent" height="170"/>
 
 </div>
-
----
-
-## About Me
-
 I'm a Software Developer from Brazil passionate about building scalable applications, enterprise solutions, and SaaS products.
 
 My journey began with PHP development, where I developed strong skills in Object-Oriented Programming, software architecture, databases, and business systems. Since then, I have worked on projects involving ERP systems, dashboards, business intelligence, CRM workflows, customer onboarding platforms, and internal software solutions.
@@ -71,63 +66,6 @@ My long-term goal is to become a Tech Lead at a global technology company, combi
 
 </div>
 
----
-
-## Featured Projects
-
-### Fragmenta
-
-A digital legacy platform designed to preserve memories, stories, and experiences for future generations.
-
-The project explores concepts such as identity, belonging, collective memory, and digital permanence, creating a space where people can leave meaningful fragments of their lives behind.
-
-### VendUp
-
-A lightweight cloud Point-of-Sale platform focused on fairs, events, and small businesses.
-
-* Fast sales workflow
-* Inventory management
-* Offline-first architecture
-* PWA support
-* Pocket-sized user experience
-
-### ZoftCore
-
-An operational platform designed to streamline software house processes.
-
-* Lead management
-* Customer onboarding
-* Licensing control
-* Workflow automation
-* Multi-company management
-* Role-based permissions
-
-### Nubo
-
-A team management SaaS platform focused on collaboration and productivity.
-
-* Real-time communication
-* Kanban boards
-* Team organization
-* Internal collaboration
-* Productivity management
-
----
-
-## Development Philosophy
-
-I believe software should be:
-
-* Clean
-* Maintainable
-* Scalable
-* Well-documented
-* User-centered
-
-I enjoy transforming complex business problems into practical and reliable solutions while maintaining high standards of code quality and long-term sustainability.
-
----
-
 ## Education
 
 🎓 Computer Science Student
@@ -138,23 +76,12 @@ I enjoy transforming complex business problems into practical and reliable solut
 
 ---
 
-## Career Goals
-
-* Become a Software Architect
-* Specialize in AI Engineering
-* Master Machine Learning
-* Expand expertise in the .NET ecosystem
-* Lead high-performance engineering teams
-* Build SaaS products with global impact
-* Become a Tech Lead at a major technology company
-
----
 
 ## Most Used Languages
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardobulik&layout=compact&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardobbbulik&layout=compact&theme=transparent"/>
 
 </div>
 
@@ -164,15 +91,15 @@ I enjoy transforming complex business problems into practical and reliable solut
 
 <div>
 
-<a href="LINKEDIN_HERE" target="_blank">
+<a href="https://www.linkedin.com/in/bernardoborrinbulik/" target="_blank">
 <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="EMAIL_HERE" target="_blank">
+<a href="bernardobuliK@gmail.com" target="_blank">
 <img loading="lazy" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="PORTFOLIO_HERE" target="_blank">
+<a href="https://bernardobulik.netlify.app" target="_blank">
 <img loading="lazy" src="https://img.shields.io/badge/Portfolio-120C38?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
